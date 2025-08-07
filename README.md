@@ -1,6 +1,10 @@
-[![MasterHead](https://r.resimlink.com/Hj4zsvT3W.jpg)
+<p align="center">
+  <img src="https://r.resimlink.com/Hj4zsvT3W.jpg" alt="banner" width="100%" style="max-height: 300px; object-fit: cover;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Arif Özdemir</h1>
 <h3 align="center">A passionate fullstack and mobile developer from Türkiye</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
