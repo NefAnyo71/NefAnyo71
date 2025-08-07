@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://r.resimlink.com/Hj4zsvT3W.jpg" alt="banner" width="100%" style="max-height: 300px; object-fit: cover;" />
+  <img src="https://r.resimlink.com/EZqCGtFJ-iaI.jpg" alt="banner" width="100%" style="max-height: 300px; object-fit: cover;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arif Özdemir</h1>
