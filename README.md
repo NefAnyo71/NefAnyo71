@@ -18,8 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nefanyo71&" alt="nefanyo71" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/NefAnyo71/blob/output/github-contribution-grid-snake.gif)
-
 ---
 
 ### 🏆 Öne Çıkan Projem: EKOS Mobil Uygulaması
