@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Arif Özdemir</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
-
-<h3 align="left">Connect with me:arifkerem71@gmail.com</h3>
+<h3 align="left">Connect with me: arifkerem71@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -19,5 +18,35 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nefanyo71&" alt="nefanyo71" /></p>
 
-
 ![snake gif](https://github.com/YOUR_USERNAME/NefAnyo71/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+### 🏆 Öne Çıkan Projem: EKOS Mobil Uygulaması
+
+<div align="center">
+  <img src="https://github.com/NefAnyo71/Flutter-KET/raw/main/assets/images/ekoslogo.png" alt="EKOS Logo" width="200"/>
+  <br>
+  <strong>Kırıkkale Üniversitesi Ekonomi Topluluğu için geliştirilmiş bir Flutter uygulaması</strong>
+</div>
+
+**EKOS (Kırıkkale Üniversitesi Ekonomi Topluluğu Mobil Uygulaması)**, Flutter ile geliştirdiğim, kullanıcılarına güncel ekonomi haberleri, ders notu paylaşımı, canlı piyasa takibi ve yapay zeka destekli bir sohbet asistanı gibi birçok özellik sunan modern bir mobil platformdur.
+
+<br>
+
+#### ✨ Öne Çıkan Özellikler
+
+* **Güncel Ekonomi ve Canlı Piyasa**: Anadolu Ajansı'ndan gelen ekonomi haberleri ve CoinGecko API entegrasyonuyla gerçek zamanlı kripto/hisse senedi fiyat takibi.
+* **Ders Notu Sistemi**: Öğrenciler arası kolay ve güvenli ders notu paylaşım platformu.
+* **Yapay Zeka Asistanı**: **Google Gemini AI** ile güçlendirilmiş, topluluk ve akademik konularda soruları yanıtlayan akıllı bir sohbet robotu.
+* **Kapsamlı Yönetici Paneli**: Etkinlik yönetimi, üye takibi, karaliste ve anket yönetimi gibi gelişmiş yönetim araçları.
+* **Etkinlik Takvimi**: Yaklaşan topluluk etkinliklerini listeleyen ve bildirimlerle hatırlatan interaktif takvim.
+
+#### 🛠️ Kullanılan Teknolojiler
+
+* **Frontend**: Flutter, Dart, Material Design 3
+* **Backend**: Firebase (Cloud Firestore, Authentication, Messaging, Database)
+
+---
+
+[👉 Projenin Tamamını İncelemek İçin Buraya Tıklayın!](https://github.com/NefAnyo71/Flutter-KET)
