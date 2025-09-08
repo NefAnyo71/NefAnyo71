@@ -20,7 +20,7 @@
 
 ---
 
-### 🏆 Öne Çıkan Projem: EKOS Mobil Uygulaması
+### 🏆 Öne Çıkan Projem: KET Mobil Uygulaması
 
 <div align="center">
   <img src="https://github.com/NefAnyo71/Flutter-KET/raw/main/assets/images/ekoslogo.png" alt="EKOS Logo" width="200"/>
@@ -28,7 +28,7 @@
   <strong>Kırıkkale Üniversitesi Ekonomi Topluluğu için geliştirilmiş bir Flutter uygulaması</strong>
 </div>
 
-**EKOS (Kırıkkale Üniversitesi Ekonomi Topluluğu Mobil Uygulaması)**, Flutter ile geliştirdiğim, kullanıcılarına güncel ekonomi haberleri, ders notu paylaşımı, canlı piyasa takibi ve yapay zeka destekli bir sohbet asistanı gibi birçok özellik sunan modern bir mobil platformdur.
+**KET (Kırıkkale Üniversitesi Ekonomi Topluluğu Mobil Uygulaması)**, Flutter ile geliştirdiğim, kullanıcılarına güncel ekonomi haberleri, ders notu paylaşımı, canlı piyasa takibi ve yapay zeka destekli bir sohbet asistanı gibi birçok özellik sunan modern bir mobil platformdur.
 
 <br>
 
