@@ -47,4 +47,4 @@
 
 ---
 
-[👉 Projenin Tamamını İncelemek İçin Buraya Tıklayın!](https://github.com/NefAnyo71/Flutter-KET)
+[👉 Projenin Tamamını İncelemek İçin Buraya Tıklayın!](https://github.com/NefAnyo71/Kirikkale-University-Economics-Society-Mobil-Flutter-App)
