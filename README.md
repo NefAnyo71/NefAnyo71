@@ -5,7 +5,7 @@
 <p align="left"> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" alt="aspnetcore" width="40" height="40"/>
 </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
