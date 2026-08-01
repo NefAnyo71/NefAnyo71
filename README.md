@@ -1,46 +1,29 @@
-<p align="center">
-  <img src="https://r.resimlink.com/Hj4zsvT3W.jpg" alt="banner" width="100%" style="max-height: 300px; object-fit: cover;" />
-</p>
+# Hi, I'm Arif Özdemir 👋
 
-<h1 align="center">Hi 👋, I'm Arif Özdemir</h1>
-<h3 align="center">A passionate mobile developer from Türkiye</h3>
+Mobile Application Developer from Türkiye.
 
-<p align="center">
-  📫 Connect with me: <strong>arifkerem71@gmail.com</strong>
-</p>
+- 📱 Flutter Developer
+- 💙 Dart
+- ⚙️ ASP.NET Core Web API
+- 🌱 Currently improving my Flutter & Backend skills
 
----
-
-### 💻 Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" alt="aspnetcore" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,git,github,vscode,androidstudio" />
 </p>
 
----
+## 📫 Contact
 
-### 📊 GitHub Stats
+- Email: **arifkerem71@gmail.com**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nefanyo71&show_icons=true&locale=en&layout=compact" alt="nefanyo71" />
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nefanyo71&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefanyo71&layout=compact&theme=default&hide_border=true" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nefanyo71&show_icons=true&locale=en" alt="nefanyo71" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nefanyo71" alt="nefanyo71" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nefanyo71&hide_border=true" />
 </p>
