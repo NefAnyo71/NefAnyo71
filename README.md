@@ -52,15 +52,3 @@ I build cross-platform mobile applications with **Flutter** and develop scalable
 
 📧 **arifkerem71@gmail.com**
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nefanyo71&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefanyo71&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nefanyo71&hide_border=true" />
-</p>
